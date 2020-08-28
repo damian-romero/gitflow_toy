@@ -25,3 +25,8 @@ v.0.1.2:
  * Hotfix for resources.md links, iss #2
  * This fix creates resources/
  * Also updated the version of this README.md file
+
+v.0.1.3:
+ * Hotfix for resources.md links, iss #3
+ * renamed resources.md > useful_links.md
+ * added some links to useful_links.md
