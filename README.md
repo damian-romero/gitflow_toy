@@ -2,13 +2,21 @@
 
 A repository to learn git flow.
 
+## Contents:
+
+This reporsitory contains both `resources/` for learning _the flow_, and my own `walkthroughs/` including my own mistakes and progress (git commands and notes can be found in there).
+
+The following "ToDo" list was a series from exercises assigned to me by [astrochun](https://astrochun.github.io) for my software development duties at the [UA libraries](https://new.library.arizona.edu/).
+
+I have now completed this ToDo list and I might add an actual ToDo document in the future, but the following section will remain in this repo.
+
 ## ToDo:
 
-1. An issue for a hotfix.  A hotfix branch published to GitHub via git flow hotfix publish <xxx>.  A PR of that hotfix into master .  That hotfix will be back-merged into master and develop via git flow hotfix finish <xxx> and git push for each of those will update GitHub repo.  It will mark the PR as merged and close it out.
+~~1. An issue for a hotfix.  A hotfix branch published to GitHub via git flow hotfix publish <xxx>.  A PR of that hotfix into master .  That hotfix will be back-merged into master and develop via git flow hotfix finish <xxx> and git push for each of those will update GitHub repo.  It will mark the PR as merged and close it out.~~
 
-2. An issue for a feature.  A feature branch published to GitHub  via git flow feature publish <xxx>. A PR of that feature into develop . This feature will be merged into develop via git flow feature <xxx> and git push.  The PR will be marked as merged and closed out.
+~~2. An issue for a feature.  A feature branch published to GitHub  via git flow feature publish <xxx>. A PR of that feature into develop . This feature will be merged into develop via git flow feature <xxx> and git push.  The PR will be marked as merged and closed out.~~
 
-3. A new release from develop that includes your new feature.  Release branch published to GitHub via git flow release publish <xxx> A PR for the release.  This release will be back-merged into master via git flow release finish <xxx> and git push.
+~~3. A new release from develop that includes your new feature.  Release branch published to GitHub via git flow release publish <xxx> A PR for the release.  This release will be back-merged into master via git flow release finish <xxx> and git push.~~
 
 ## Changelog
 
@@ -38,3 +46,7 @@ v.0.2.0:
 v.0.2.1:
  * Hotfix for feature-wt.md and hotfix-wt.md, iss #11r
  * fix comment spacing on feature-wt.md and hotfix-wt.md
+
+v.0.2.2:
+ * Hotfix for iss #15
+ * Update this README
