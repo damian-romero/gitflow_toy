@@ -34,3 +34,7 @@ v.0.1.3:
 v.0.2.0:
  * Includes walkthroughs for hotfixes and features
  * Requires check of md documents and directories
+
+v.0.2.1:
+ * Hotfix for feature-wt.md and hotfix-wt.md, iss #11r
+ * fix comment spacing on feature-wt.md and hotfix-wt.md
