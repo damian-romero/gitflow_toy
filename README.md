@@ -38,3 +38,7 @@ v.0.2.0:
 v.0.2.1:
  * Hotfix for feature-wt.md and hotfix-wt.md, iss #11r
  * fix comment spacing on feature-wt.md and hotfix-wt.md
+
+v.0.2.2:
+ * Hotfix for iss #15
+ * Update this README
