@@ -6,7 +6,7 @@
 
 3985  git flow hotfix start v.0.1.1
 
-###[Do stuff here]
+### [Do stuff here]
 
 3990  git add .
 
@@ -17,7 +17,7 @@
 
 ### Trying to publish hotfix/v.0.1.1
 
-###[THIS COMMAND DOES NOT WORK ON MAC brew git-fow v.0.4.1]
+### [THIS COMMAND DOES NOT WORK ON MAC brew git-fow v.0.4.1]
 
 3993  git flow hotfix publish
 
@@ -35,7 +35,7 @@
 
 4037  cd Projects/gitflow_toy
 
-###[etc. etc.]
+### [etc. etc.]
 
 
 ### Back to Hotfix 1 for iss #1 (FAILED ATTEMPT TO PUSH, I MERGED)
@@ -46,19 +46,19 @@
 
 4041  git commit -m'see iss #1'
 
-###[The following command will automatically merge without letting you do a pull request]
+### [The following command will automatically merge without letting you do a pull request]
 
 4042  git flow hotfix publish
 
 4043  git flow hotfix finish v.0.1.1
 
-###[So I push and decide to create another hotfix for another issue later]
+### [So I push and decide to create another hotfix for another issue later]
 
 4044  git push git push origin --all --follow-tags
 
 4045  git push origin
 
-###[hotfix finish did *not* delete the hotfix branch]
+### [hotfix finish did *not* delete the hotfix branch]
 
 4058  git checkout master
 
@@ -66,7 +66,7 @@
 
 4060  git push origin --all --follow-tags
 
-###[cannot push tags here]
+### [cannot push tags here]
 
 4061  git push
 
@@ -80,7 +80,7 @@
 
 4069  git status
 
-###[Bump version on README.md]
+### [Bump version on README.md]
 
 4071  git add .
 
@@ -88,7 +88,7 @@
 
 4077  git status
 
-###[Fix stuff here]
+### [Fix stuff here]
 
 4078  git add .
 
@@ -100,7 +100,7 @@
 
 4082  git checkout master
 
-###[On GH: Pull request, and I merged manually --bad]
+### [On GH: Pull request, and I merged manually --bad]
 
 4084  git flow hotfix finish v.0.1.2
 
@@ -114,13 +114,13 @@
 
 4139  git flow hotfix start v.0.1.3
 
-###[Bump version on README.md]
+### [Bump version on README.md]
 
 4153  git add README.md
 
 4154  git commit -am'Bumped version number to 0.1.3'
 
-###[Fix stuff here]
+### [Fix stuff here]
 
 4163  git add .
 
@@ -130,9 +130,9 @@
 
 4168  git push --set-upstream origin hotfix/v.0.1.3
 
-###[On GH: Pull request]
+### [On GH: Pull request]
 
-###[Merge with hotfix finish]
+### [Merge with hotfix finish]
 
 4169  git checkout master
 
