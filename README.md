@@ -49,3 +49,6 @@ v.0.2.1:
 
 v.0.2.3:
  * Minor update to resources/useful_links.md, two additional resources #17
+
+v.0.3.0:
+ * Next major release
