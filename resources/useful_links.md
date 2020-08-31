@@ -1,5 +1,11 @@
 # Git Flow Resources:
 
+## GitHub resources
+
+ - [An Intro to Git and GitHub: GubSpot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+ - [GIT Push and Pull: DataCamp](https://www.datacamp.com/community/tutorials/git-push-pull?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=9047091&gclid=Cj0KCQjwv7L6BRDxARIsAGj-34qD4Z70vIchV-vjlg6-WYO01M7C1tZT2JdS74pCDMmvQsIgUAqgSi0aAu4yEALw_wcB)
+
 ## Blog posts
  - [GitFlow vs Git](https://gist.github.com/JamesMGreene/cdd0ac49f90c987e45ac)
  - [NVIE](https://nvie.com/posts/a-successful-git-branching-model/)
