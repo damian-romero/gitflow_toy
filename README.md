@@ -52,3 +52,7 @@ v.0.2.3:
 
 v.0.3.0:
  * Next major release
+
+v.0.3.1:
+ * Bumped version to v.0.3.1
+ * Added 10+ new links to `useful_links.md` including a cool cheatsheet for Git
