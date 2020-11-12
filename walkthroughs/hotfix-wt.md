@@ -84,7 +84,7 @@
 
 4071  git add .
 
-4072  git commit -am'Bumped version number to 0.1.2'
+4072  git commit -m'Bumped version number to 0.1.2'
 
 4077  git status
 
@@ -92,7 +92,7 @@
 
 4078  git add .
 
-4079  git commit -am'See iss #2'
+4079  git commit -m'See iss #2'
 
 4080  git push origin
 
@@ -118,13 +118,13 @@
 
 4153  git add README.md
 
-4154  git commit -am'Bumped version number to 0.1.3'
+4154  git commit -m'Bumped version number to 0.1.3'
 
 ### [Fix stuff here]
 
 4163  git add .
 
-4165  git commit -am'See iss #3'
+4165  git commit -m'See iss #3'
 
 4167  git push origin
 
