@@ -50,9 +50,7 @@ v.0.2.1:
 v.0.2.3:
  * Minor update to resources/useful_links.md, two additional resources #17
 
-v.0.3.0:
+v.0.3.0: - v.0.3.2
  * Next major release
-
-v.0.3.1:
- * Bumped version to v.0.3.1
  * Added 10+ new links to `useful_links.md` including a cool cheatsheet for Git
+ * Fixed add duplication from `git commit -a` in walkthroughs
